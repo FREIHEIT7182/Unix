@@ -1,35 +1,3 @@
-cd
-ls
-cat Practice1.sh
-cd Practice
-cat Practice1.sh
-cp Practice1.sh Practice
-ls
-cat Practice
-cat Practice.sh
-rm Practice
-ls
-cler
-clear
-vi Practice2.sh
-chmod +x Practice2.sh
-./Practice2.sh
-vi Practice2.sh
-./Practice2.sh
-vi Practice2.sh
-./Practice2.sh
-vi Practice2.sh
-./Practice2.sh
-vi Practice2.sh
-./Practice2.sh
-vi Practice2.sh
-./Practice2.sh
-vi Practice2.sh
-./Practice2.sh
-vi Practice2.sh
-./Practice2.sh
-wc -l calc.sh
-vi Practice2.sh
 ./Practice2.sh
 vi calc.sh
 vi Practice2.sh
@@ -998,3 +966,35 @@ man make
 crontab -l
 crontal -e
 crontab -e
+git init
+git remote add origin https://github.com/PNH3/Shell.git
+git remote -v
+git add .
+git commit -m "first commit"
+gi config --global user.email "pallavi31897@gmail.com"
+git config --global user.email "pallavi31897@gmail.com"
+ls
+git config --global user.name "PNH3"
+push origin master
+push origin mastergit push origin master
+git push origin master
+git remote set-url origin git@github.com:ppreyer/first_app.git
+git push origin master
+sudo yum install java-1.8.0-openjdk-devel
+java
+javac
+vi Exc.sh
+javac HelloWorld.java && java HelloWorld
+vi HelloWorld.java
+javac HelloWorld.java && java HelloWorld
+vi HelloWorld.java
+javac HelloWorld.java && java HelloWorld
+cat >HelloWorld.java << HELLO
+HELLO
+
+vi HelloWorld.java
+bs
+bash
+cat HelloWorld.java
+vi HelloWorld.java
+javac HelloWorld.java
